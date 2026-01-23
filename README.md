@@ -58,10 +58,10 @@ In the below table, the columns indicate the following attributes related to the
 | 25  | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)                  |         [Solution](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/025%20-%20Compressed%20Mean.sql)              |
 | 26  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees)              |         [Solution](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/026%20-%20Well%20Paid%20Employees.sql)           |
 | 27  | [QuickBooks vs TurboTax!](https://datalemur.com/questions/quickbooks-vs-turbotax)           |        
-| 28  | [IBM db2 Product Analytics] (https://datalemur.com/questions/sql-ibm-db2-product-analytics) |
-| 29  | [Pharmacy Analytics (Part 1)]  (https://datalemur.com/questions/top-profitable-drugs)       |
-| 30  | [Most Expensive Purchase]  (https://datalemur.com/questions/most-expensive-purchase)        |
-| 31  | [Subject Matter Experts] (https://datalemur.com/questions/subject-matter-experts)           |
+| 28  | [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) |
+| 29  | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs)       |
+| 30  | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase)        |
+| 31  | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts)           |
 
  
 #### Difficulty Level: Medium
