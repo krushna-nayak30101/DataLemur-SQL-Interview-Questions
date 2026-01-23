@@ -57,11 +57,11 @@ In the below table, the columns indicate the following attributes related to the
 | 24  | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference)          |         [Solution](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/024%20-%20Cards%20Issued%20Difference.sql)         |
 | 25  | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)                  |         [Solution](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/025%20-%20Compressed%20Mean.sql)              |
 | 26  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees)              |         [Solution](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/026%20-%20Well%20Paid%20Employees.sql)           |
-| 27  | [QuickBooks vs TurboTax!](https://datalemur.com/questions/quickbooks-vs-turbotax)           |        
-| 28  | [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) |
-| 29  | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs)       |
-| 30  | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase)        |
-| 31  | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts)           |
+| 27  | [QuickBooks vs TurboTax!](https://datalemur.com/questions/quickbooks-vs-turbotax)           |          [Solution](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/027%20-%20QuickBooks%20vs%20TurboTax!.sql)
+| 28  | [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics)  |           [Solution](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/028%20-%20IBM%20db2%20Product%20Analytics.sql)
+| 29  | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs)         |            [Solution](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/029%20-%20Pharmacy%20Analytics%20(Part%201).sql)
+| 30  | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase)          |            [Solution](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/030%20-%20Most%20Expensive%20Purchase.sql)
+| 31  | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts)            |           [Solution](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/031%20-%20Subject%20Matter%20Experts%20.sql)
 
  
 #### Difficulty Level: Medium
