@@ -3,7 +3,7 @@ WITH cte AS (
     customer_id
     ,purchase_amount
     ,ROW_NUMBER() OVER (PARTITION BY customer_id ORDER BY purchase_amount DESC) AS rownum
-  FROM transactions_HNI_AMZN
+  FROM transactions
 )
 SELECT
   customer_id
