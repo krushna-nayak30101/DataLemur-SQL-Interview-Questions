@@ -1,4 +1,4 @@
-<img width="313" height="22" alt="image" src="https://github.com/user-attachments/assets/fb7cd3bb-714d-489a-ba3d-13fd8787803c" /><img width="313" height="22" alt="image" src="https://github.com/user-attachments/assets/dcae86e5-6474-4fe8-a143-1452e73fd530" />![Project Logo](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/datalemurcover.jpg)
+![Project Logo](https://github.com/krushna-nayak30101/DataLemur-SQL-Interview-Questions/blob/main/datalemurcover.jpg)
 
 ---
 
